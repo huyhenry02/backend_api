@@ -1,0 +1,42 @@
+2024-05-14 04:28:44,335 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-05-14 04:28:44,338 INFO supervisord started with pid 1
+2024-05-14 04:28:45,341 INFO spawned: 'cron' with pid 7
+2024-05-14 04:28:45,343 INFO spawned: 'laravel-worker-db_00' with pid 8
+2024-05-14 04:28:45,345 INFO spawned: 'laravel-worker-db_01' with pid 9
+2024-05-14 04:28:45,347 INFO spawned: 'laravel-worker-db_02' with pid 10
+2024-05-14 04:28:45,348 INFO spawned: 'laravel-worker-db_03' with pid 11
+2024-05-14 04:28:45,355 INFO spawned: 'php' with pid 12
+2024-05-14 04:28:45,384 WARN exited: laravel-worker-db_00 (exit status 1; not expected)
+2024-05-14 04:28:45,385 WARN exited: laravel-worker-db_01 (exit status 1; not expected)
+2024-05-14 04:28:45,385 WARN exited: laravel-worker-db_02 (exit status 1; not expected)
+2024-05-14 04:28:45,385 WARN exited: laravel-worker-db_03 (exit status 1; not expected)
+2024-05-14 04:28:46,392 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-14 04:28:46,393 INFO spawned: 'laravel-worker-db_00' with pid 15
+2024-05-14 04:28:46,394 INFO spawned: 'laravel-worker-db_01' with pid 16
+2024-05-14 04:28:46,396 INFO spawned: 'laravel-worker-db_02' with pid 17
+2024-05-14 04:28:46,397 INFO spawned: 'laravel-worker-db_03' with pid 18
+2024-05-14 04:28:46,397 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-05-14 04:28:46,414 WARN exited: laravel-worker-db_01 (exit status 1; not expected)
+2024-05-14 04:28:46,414 WARN exited: laravel-worker-db_02 (exit status 1; not expected)
+2024-05-14 04:28:46,414 WARN exited: laravel-worker-db_00 (exit status 1; not expected)
+2024-05-14 04:28:46,416 WARN exited: laravel-worker-db_03 (exit status 1; not expected)
+2024-05-14 04:28:48,420 INFO spawned: 'laravel-worker-db_00' with pid 19
+2024-05-14 04:28:48,422 INFO spawned: 'laravel-worker-db_01' with pid 20
+2024-05-14 04:28:48,424 INFO spawned: 'laravel-worker-db_02' with pid 21
+2024-05-14 04:28:48,427 INFO spawned: 'laravel-worker-db_03' with pid 22
+2024-05-14 04:28:48,445 WARN exited: laravel-worker-db_00 (exit status 1; not expected)
+2024-05-14 04:28:48,450 WARN exited: laravel-worker-db_02 (exit status 1; not expected)
+2024-05-14 04:28:48,451 WARN exited: laravel-worker-db_03 (exit status 1; not expected)
+2024-05-14 04:28:48,451 WARN exited: laravel-worker-db_01 (exit status 1; not expected)
+2024-05-14 04:28:51,456 INFO spawned: 'laravel-worker-db_00' with pid 23
+2024-05-14 04:28:51,458 INFO spawned: 'laravel-worker-db_01' with pid 24
+2024-05-14 04:28:51,459 INFO spawned: 'laravel-worker-db_02' with pid 25
+2024-05-14 04:28:51,460 INFO spawned: 'laravel-worker-db_03' with pid 26
+2024-05-14 04:28:51,474 WARN exited: laravel-worker-db_00 (exit status 1; not expected)
+2024-05-14 04:28:51,474 INFO gave up: laravel-worker-db_00 entered FATAL state, too many start retries too quickly
+2024-05-14 04:28:51,477 WARN exited: laravel-worker-db_02 (exit status 1; not expected)
+2024-05-14 04:28:51,479 INFO gave up: laravel-worker-db_02 entered FATAL state, too many start retries too quickly
+2024-05-14 04:28:51,481 WARN exited: laravel-worker-db_01 (exit status 1; not expected)
+2024-05-14 04:28:51,481 INFO gave up: laravel-worker-db_01 entered FATAL state, too many start retries too quickly
+2024-05-14 04:28:51,484 WARN exited: laravel-worker-db_03 (exit status 1; not expected)
+2024-05-14 04:28:52,485 INFO gave up: laravel-worker-db_03 entered FATAL state, too many start retries too quickly

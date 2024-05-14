@@ -1,0 +1,41 @@
+module_name,permission_name,description
+Phân quyền,get-list-roles,Danh sách nhóm quyền
+Phân quyền,get-role,Chi tiết quyền
+Phân quyền,create-role,Tạo nhóm quyền
+Phân quyền,delete-role,Xóa quyền
+Phân quyền,change-status-role,Thay đổi trạng thái quyền
+Phân quyền,update-role,Cập nhật quyền
+Phân quyền,give-permissions-to-role,Gán quyền cho role
+Phân quyền,get-list-modules,Danh sách chức năng
+Phân quyền,get-list-permissions,Danh sách quyền
+Nhân viên,create-electronic-record,Tạo hồ sơ điện tử
+Nhân viên,get-list-employee,Danh sách Hồ sơ điện tử
+Nhân viên,update-status-employee,Cập nhật trạng thái hồ sơ điện tử
+Nhân viên,get-one-curriculum-vitae,Chi tiết sơ yếu lý lịch
+Nhân viên,update-curriculum-vitae,Cập nhật sơ yếu lý lịch
+Nhân viên,get-contract,Chi tiết hợp đồng
+Nhân viên,update-contract,Cập nhật hợp đồng
+Nhân viên,get-health,Chi tiết Sức khỏe
+Nhân viên,update-health,Cập nhật sức khỏe
+Nhân viên,create-user,Tạo tài khoản người dùng
+Người dùng,update-user,Cập nhật người dùng
+Cơ cấu tổ chức,get-list-hierarchy,Danh sách cơ cấu tổ chức
+Cơ cấu tổ chức,get-one-hierarchy,Chi tiết cơ cấu tổ chức
+Cơ cấu tổ chức,create-hierarchy, Thêm mới cơ cấu tổ chức
+Cơ cấu tổ chức,update-hierarchy, Cập nhật cơ cấu tổ chức
+Cơ cấu tổ chức,delete-hierarchy, Xóa cơ cấu tổ chức
+Cơ cấu tổ chức,get-list-by-level-hierarchy, Danh sách cơ cấu tổ chức theo cấp
+Cơ cấu tổ chức,get-list-by-code-hierarchy, Danh sách cơ cấu tổ chức theo mã
+Thiết bị,get-list-asset,Danh sách thiết bị
+Thiết bị,get-asset,Chi tiết thiết bị
+Thiết bị,create-asset,Tạo tiết thiết bị
+Thiết bị,update-asset,Cập nhật thiết bị
+Thiết bị,create-asset-delivery-history,Tạo lịch sử giao nhận thiết bị
+Thiết bị,get-asset-delivery-history, Chi tiết lịch sử giao nhận thiết bị
+Thiết bị,list-asset-delivery-history,Danh sách lịch sử giao nhận thiết bị
+Thiết bị,create-asset-maintenance,Tạo lịch sử sửa chữa thiết bị
+Thiết bị,get-asset-maintenance, Chi tiết lịch sử sửa chữa thiết bị
+Thiết bị,list-asset-maintenance,Danh sách lịch sử sửa chữa thiết bị
+Thiết bị,delete-asset,Xóa thiết bị
+Tài khoản,get-list-user,Danh sách tài khoản
+Tài khoản,get-user-by-userId,Chi tiết tài khoản

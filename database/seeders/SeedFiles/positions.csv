@@ -1,0 +1,10 @@
+﻿name,code,status
+Nhân viên,staff,active
+Phó Phòng,deputy-department,active
+Trưởng phòng,head-department,active
+Phó giám đốc,deputy-director,active
+Giám đốc,director,active
+Phó chủ tịch,vice-president,active
+Chủ tịch,president,active
+Thực tập sinh,intern,active
+Người hẹn,guest,active

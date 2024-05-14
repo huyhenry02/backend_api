@@ -1,0 +1,240 @@
+name,abbreviation_2,status
+Afghanistan,AF,active
+Albania,AL,active
+Algeria,DZ,active
+Andorra,AD,active
+Angola,AO,active
+Antigua and Barbuda,AG,active
+Argentina,AR,active
+Armenia,AM,active
+Australia,AU,active
+Austria,AT,active
+Azerbaijan,AZ,active
+Bahamas,BS,active
+Bahrain,BH,active
+Bangladesh,BD,active
+Barbados,BB,active
+Belarus,BY,active
+Belgium,BE,active
+Belize,BZ,active
+Benin,BJ,active
+Bhutan,BT,active
+Bolivia,BO,active
+Bosnia and Herzegovina,BA,active
+Botswana,BW,active
+Brazil,BR,active
+Brunei,BN,active
+Bulgaria,BG,active
+Burkina Faso,BF,active
+Burundi,BI,active
+Cabo Verde,CV,active
+Cambodia,KH,active
+Cameroon,CM,active
+Canada,CA,active
+Central African Republic,CF,active
+Chad,TD,active
+Chile,CL,active
+China,CN,active
+Colombia,CO,active
+Comoros,KM,active
+Congo,CG,active
+Costa Rica,CR,active
+Côte d’Ivoire,CI,active
+Croatia,HR,active
+Cuba,CU,active
+Cyprus,CY,active
+Czechia,CZ,active
+Denmark,DK,active
+Djibouti,DJ,active
+Dominica,DM,active
+Dominican Republic,DO,active
+DR Congo,CD,active
+Ecuador,EC,active
+Egypt,EG,active
+El Salvador,SV,active
+Equatorial Guinea,GQ,active
+Eritrea,ER,active
+Estonia,EE,active
+Eswatini,SZ,active
+Ethiopia,ET,active
+Fiji,FJ,active
+Finland,FI,active
+France,FR,active
+Gabon,GA,active
+Gambia,GM,active
+Georgia,GE,active
+Germany,DE,active
+Ghana,GH,active
+Greece,GR,active
+Grenada,GD,active
+Guatemala,GT,active
+Guinea,GN,active
+Guinea-Bissau,GW,active
+Guyana,GY,active
+Haiti,HT,active
+Holy See,VA,active
+Honduras,HN,active
+Hungary,HU,active
+Iceland,IS,active
+India,IN,active
+Indonesia,ID,active
+Iran,IR,active
+Iraq,IQ,active
+Ireland,IE,active
+Israel,IL,active
+Italy,IT,active
+Jamaica,JM,active
+Japan,JP,active
+Jordan,JO,active
+Kazakhstan,KZ,active
+Kenya,KE,active
+Kiribati,KI,active
+Kuwait,KW,active
+Kyrgyzstan,KG,active
+Laos,LA,active
+Latvia,LV,active
+Lebanon,LB,active
+Lesotho,LS,active
+Liberia,LR,active
+Libya,LY,active
+Liechtenstein,LI,active
+Lithuania,LT,active
+Luxembourg,LU,active
+Madagascar,MG,active
+Malawi,MW,active
+Malaysia,MY,active
+Maldives,MV,active
+Mali,ML,active
+Malta,MT,active
+Marshall Islands,MH,active
+Mauritania,MR,active
+Mauritius,MU,active
+Mexico,MX,active
+Micronesia,FM,active
+Moldova,MD,active
+Monaco,MC,active
+Mongolia,MN,active
+Montenegro,ME,active
+Morocco,MA,active
+Mozambique,MZ,active
+Myanmar,MM,active
+Namibia,NA,active
+Nauru,NR,active
+Nepal,NP,active
+Netherlands,NL,active
+New Caledonia,NC,active
+New Zealand,NZ,active
+Nicaragua,NI,active
+Niger,NE,active
+Nigeria,NG,active
+North Korea,KP,active
+North Macedonia,MK,active
+Norway,NO,active
+Oman,OM,active
+Pakistan,PK,active
+Palau,PW,active
+Panama,PA,active
+Papua New Guinea,PG,active
+Paraguay,PY,active
+Peru,PE,active
+Philippines,PH,active
+Poland,PL,active
+Portugal,PT,active
+Qatar,QA,active
+Romania,RO,active
+Russia,RU,active
+Rwanda,RW,active
+Saint Barthelemy,BL,active
+Saint Helena,SH,active
+Saint Kitts & Nevis,KN,active
+Saint Lucia,LC,active
+Saint Martin,MF,active
+Saint Pierre and Miquelon,PM,active
+Saint Vincent & Grenadines,VC,active
+Samoa,WS,active
+San Marino,SM,active
+Sao Tome & Principe,ST,active
+Saudi Arabia,SA,active
+Senegal,SN,active
+Serbia,RS,active
+Seychelles,SC,active
+Sierra Leone,SL,active
+Singapore,SG,active
+Slovakia,SK,active
+Slovenia,SI,active
+Solomon Islands,SB,active
+Somalia,SO,active
+South Africa,ZA,active
+South Korea,KR,active
+South Sudan,SS,active
+Spain,ES,active
+Sri Lanka,LK,active
+Sudan,SD,active
+Suriname,SR,active
+Sweden,SE,active
+Switzerland,CH,active
+Syria,SY,active
+Taiwan,TW,active
+Tajikistan,TJ,active
+Tanzania,TZ,active
+Thailand,TH,active
+Timor-Leste,TL,active
+Togo,TG,active
+Tonga,TO,active
+Trinidad and Tobago,TT,active
+Tunisia,TN,active
+Turkey,TR,active
+Turkmenistan,TM,active
+Tuvalu,TV,active
+Uganda,UG,active
+Ukraine,UA,active
+United Arab Emirates,AE,active
+United Kingdom,GB,active
+United States,US,active
+Uruguay,UY,active
+Uzbekistan,UZ,active
+Vanuatu,VU,active
+Venezuela,VE,active
+Việt Nam,VN,active
+Wallis and Futuna,WF,active
+Yemen,YE,active
+Zambia,ZM,active
+Zimbabwe,ZW,active
+American Samoa,AS,active
+Anguilla,AI,active
+Antarctica,AQ,active
+Aruba,AW,active
+Bermuda,BM,active
+British Indian Ocean Territory,IO,active
+British Virgin Islands,VG,active
+Cayman Islands,KY,active
+Christmas Island,CX,active
+Cocos Islands,CC,active
+Cook Islands,CK,active
+Curacao,CW,active
+Falkland Islands,FK,active
+Faroe Islands,FO,active
+French Polynesia,PF,active
+Gibraltar,GI,active
+Greenland,GL,active
+Guam,GU,active
+Guernsey,GG,active
+Hong Kong,HK,active
+Isle of Man,IM,active
+Jersey,JE,active
+Kosovo,XK,active
+Macau,MO,active
+Mayotte,YT,active
+Montserrat,MS,active
+Netherlands Antilles,AN,active
+Niue,NU,active
+Northern Mariana Islands,MP,active
+Pitcairn,PN,active
+Puerto Rico,PR,active
+Reunion,RE,active
+Sint Maarten,SX,active
+Svalbard and Jan Mayen,SJ,active
+Tokelau,TK,active
+Turks and Caicos Islands,TC,active
+U.S. Virgin Islands,VI,active
+Western Sahara,EH,active
